@@ -21,3 +21,10 @@ for number in myList :
         total+=number
 
 print(total)
+
+alist = [10, 20, 30]
+total=0
+for item in range(len(alist)):
+    total = total + 1
+
+print (total)
